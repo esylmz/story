@@ -37,6 +37,6 @@ Admin:
 - Kullanıcı Adı: esma
 - Şifre:112233
 
-- !!! Projeyi çalıştırmadan önce SQL Server’da şu şekilde sstory.dacpac dosyasını deploy edin. !!!
+- !!! Projeyi çalıştırmadan önce SQL Server’da sstory.dacpac dosyasını deploy edin. !!!
 - story2.dacpac dosyası yedek dosyadır.
 
